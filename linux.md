@@ -3,4 +3,4 @@
 ## Security
 
 Namspaces:
-- http://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces
+- [Namespace introduction](http://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces)
