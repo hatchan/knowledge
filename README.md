@@ -1,6 +1,6 @@
 # knowledge
 
-Much knowlegde, good links, wow
+Much knowledge, good links, wow
 
 ## Content
 
