@@ -4,7 +4,7 @@ Various handy examples of using `kubectl`.
 
 ## kubectl top
 
-Insights into the resources usage for a node or a pod.
+Insights into the resource consumptions for a node or a pod.
 
 ```
 # get resource consumption for all nodes
